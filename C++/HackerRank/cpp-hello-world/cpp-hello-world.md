@@ -16,6 +16,6 @@ You do not need to read any input in this challenge
 Print "Hello, World!" to stdout
 
 ### Sample Output
-'''cpp
+```C++
 "Hello, World!"
-'''
+```
